@@ -1,0 +1,16 @@
+{
+  "engineRunConfiguration": {
+    "Remote": {
+      "export_resources": false,
+      "resources_target_folder": "${PROJECT_HOME}",
+      "resources_source_folder": "${PROJECT_HOME}",
+      "server_poll_interval": "",
+      "run_config": "locahost_pipeline",
+      "hop_server": "localhost",
+      "server_poll_delay": ""
+    }
+  },
+  "configurationVariables": [],
+  "name": "locahost_pipeline",
+  "description": ""
+}
